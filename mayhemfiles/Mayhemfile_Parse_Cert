@@ -1,0 +1,6 @@
+project: webpki
+target: parse-cert
+duration: 90
+
+cmds:
+    - cmd: /parse_cert

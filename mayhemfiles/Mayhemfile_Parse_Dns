@@ -1,0 +1,6 @@
+project: webpki
+target: parse-dns
+duration: 90
+
+cmds:
+    - cmd: /parse_dns
